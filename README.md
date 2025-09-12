@@ -1,63 +1,102 @@
-# PDF_-_Excel_Splitter_and_Outlook_mailer_automation_app
-Excel Splitter and outlook Emailer, Splits PDF with name and can sent though outlook to relevant mapped ID in few seconds, Mailer for multiple attachments to relevant emails.
+# PDF_and_Excel_Splitter_and_Outlook_mailer_automation_app
 
-1. Working of the Tool
+## **Overview**
+The **Excel File Splitter & Direct Mail Sender Tool** is an easy-to-use desktop solution for businesses, sales teams, and administrators who frequently manage large Excel and PDF data and need to send personalized emails quickly and accurately via Microsoft Outlook.
 
-The Tool is designed to:
+With this tool, you can:
+- Split large Excel files into multiple smaller files based on your chosen criteria.
+- Automatically email these files to relevant recipients in just a few minutes.
+- Send bulk or individual emails with attachments, CC, BCC, and error logging for complete reliability.
+- Splits PDF with name mapped in excel and can be sent to mapped personalized emails accurately by using Outlook with error logs.
+- Sends mails with multiple attachments to relevant mapped emails with CC, BCC, with error logs.
 
-Excel File Splitter: Split large Excel files into smaller parts based on user-defined criteria, applying formatting where required.
+---
 
-Direct Mail Sender: Send bulk or individual emails via Microsoft Outlook, with options to include attachments, CC, BCC, and error logging.
+## **Key Features**
 
-PDF Splitter with name: Split PDFs page-wise and automatically assign names from an Excel file.
+### **1. Excel File Splitter & Automated Emailer**
+- Split large Excel files into smaller, more manageable files.
+- Apply user-defined filters and formatting during splitting.
+- Instantly send these split files to corresponding email addresses (using a template sheet for email data).
+- Supports:
+  - CC and BCC fields
+  - Error logging for failed emails
 
-Error Logging: Any errors occurring during file splitting or mail sending are saved into an error log file for review.
+---
 
-User Control: The Tool requires the user to manually provide file paths, email addresses, and attachments. The Tool does not automatically access or transmit any data without user initiation.
+### **2. Direct Mail Sender**
+- Send **bulk or single emails** directly from your Microsoft Outlook account.
+- Attach multiple files to emails effortlessly.
+- Built-in error logging to track any email delivery issues.
 
-This explanation is included for transparency and to ensure users understand the Tool’s intended purpose and limitations.
+---
 
-2. Grant of License
+### **3. Error Logging**
+- All errors encountered during file splitting or email sending are saved in a log file.
+- Makes troubleshooting easy and transparent.
 
-You are granted a non-exclusive, non-transferable license to use this Tool for personal or business purposes.
+---
 
-This license does not grant you the right to modify, distribute, or resell the Tool without written permission from the copyright owner.
+### **4. User-Controlled & Secure**
+- No automatic data collection.
+- Users provide all file paths, email addresses, and attachments manually.
+- 100% control over what data is sent.
 
-3. Restrictions
+---
 
-You may NOT:
+## **Trial & Licensing**
+- Every download comes with a **7-day free trial**.
+- After the trial period, activation is required:
+  - **Yearly License:** Affordable and renewable
+  - **Lifetime License:** One-time payment for unlimited use
 
-Copy, modify, or create derivative works of the Tool.
+For licensing and pricing, contact:
+- 📞 **+91-8958269509**
+- 📞 **+91-7017344919**
+- 📧 **bhattt26@gmail.com**
 
-Distribute, sublicense, sell, or rent the Tool.
+---
 
-Reverse engineer, decompile, or disassemble the Tool.
+## **How It Works**
 
-Use the Tool for unlawful purposes or in violation of any regulations.
+### **Step 1: Prepare Your Files**
+- For the splitter module, ensure your source Excel file is ready and criteria should be shorted.
+- For email sending, prepare the email data sheet (sample provided).
 
-4. Ownership
+### **Step 2: Run the Tool**
+- Launch the application (`.exe` file).
+- Choose either:
+  - **Excel Splitter Module**  
+  - **Direct Mail Sender Module**
 
-The Tool and all associated code, documentation, and materials are the intellectual property of Tika Ram Bhatt and are protected under applicable copyright laws.
+### **Step 3: Configure Settings**
+- Provide required file paths and options.
+- Add CC/BCC and attachments if needed.
 
-5. Disclaimer of Warranty
+### **Step 4: Execute & Review**
+- Run the process.
+- Check the output folder for split files or verify email sending in Outlook.
+- Review the log file for any errors or skipped items.
 
-The Tool is provided “AS IS,” without warranties of any kind, express or implied. The copyright owner does not guarantee that the Tool will meet your requirements or be error-free.
+---
 
-6. Limitation of Liability
+## **System Requirements**
+- **OS:** Windows 7 or later
+- **Software:** Microsoft Excel & Microsoft Outlook installed
+- **RAM:** 4GB minimum (8GB recommended)
+- **Disk Space:** At least 500MB free
 
-In no event shall the copyright owner be liable for any damages (including, without limitation, lost profits, business interruption, or data loss) arising from the use or inability to use the Tool.
+---
 
-7. Termination
+## **Support**
+For technical assistance, activation, or troubleshooting, reach out to:
+- **Email:** bhattt26@gmail.com
+- **Phone:** +91-8958269509 / +91-7017344919
 
-This license is effective until terminated. It will terminate automatically if you fail to comply with any terms of this Agreement. Upon termination, you must immediately stop using the Tool.
+---
 
-8. Governing Law
+## **Disclaimer**
+This tool is provided “as is” for business productivity purposes. It does not access or transmit your data automatically and requires user input for every operation.
 
-This Agreement shall be governed and construed under the laws of India.
-
-9. Contact
-
-For inquiries regarding licensing, please contact:
-Tika Ram Bhatt (Ashish Bhatt)
-Email: bhattt26@gmail.com
-Phone: +91-8958269509, 7017344919
+##
+**Copyright © 2025 Tika Ram Bhatt**
