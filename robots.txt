@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bhattt26.github.io/PDF_and_Excel_Splitter_and_Outlook_mailer_automation_app/sitemap.xml
